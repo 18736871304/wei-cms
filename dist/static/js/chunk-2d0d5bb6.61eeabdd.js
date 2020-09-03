@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d5bb6"],{7018:function(e,a,n){"use strict";n.r(a);var l=function(){var e=this,a=e.$createElement,n=e._self._c||a;return n("el-row",{staticClass:"about"},[n("el-calendar",{model:{value:e.value,callback:function(a){e.value=a},expression:"value"}})],1)},t=[],u={data:function(){return{value:new Date}}},c=u,o=n("2877"),r=Object(o["a"])(c,l,t,!1,null,null,null);a["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0d5bb6.61eeabdd.js.map
